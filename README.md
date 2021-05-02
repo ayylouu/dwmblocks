@@ -4,7 +4,7 @@ Modular status bar for dwm written in c.
 
 # My build
 
-My builds of dwmblocks reads my scripts [here is my scriptsrepo](https://github.com/ayylouu/scripts/).
+My builds of dwmblocks reads my scripts [here is my scripts repo](https://github.com/ayylouu/scripts/).
 
 # Editing blocks
 
