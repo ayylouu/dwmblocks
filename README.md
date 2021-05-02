@@ -8,7 +8,7 @@ My builds of dwmblocks reads my scripts [here is my scripts repo](https://github
 
 # Editing blocks
 
-The statusbar is made from text output from commandline programs. Blocks are added and removed by editing the config.h file.
+The statusbar is made from text output from commandline programs. Blocks are added and removed by editing the blocks.h file.
 
 # Signaling changes
 
